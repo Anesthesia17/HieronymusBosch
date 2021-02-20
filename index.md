@@ -1,1 +1,2 @@
-<iframe src="https://uploads.knightlab.com/storymapjs/da652665a8b8df1c84a03d263015f613/popisujici-hlavni-symboly-zahrady-pozemskych-rozkosi-2/index.html" frameborder="0" width="100%" height="400"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/da652665a8b8df1c84a03d263015f613/popisujici-hlavni-symboly-zahrady-pozemskych-rozkosi-2/index.html" frameborder="0" width=800 height=600></iframe>
+
